@@ -1,5 +1,4 @@
-// Clase abstracta Empleado (publica)
-package Ejercicio1;
+package Ejercicio1.Ejercicio1_1;
 
 public abstract class Empleado {
     // Atributos comunes para todas las clases de empleados

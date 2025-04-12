@@ -1,4 +1,4 @@
-package Ejercicio1;
+package Ejercicio1.Ejercicio1_1;
 
 public class EmpleadoTiempoCompleto extends Empleado {
     private double bonoExtra;

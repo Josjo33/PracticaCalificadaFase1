@@ -1,4 +1,4 @@
-package Ejercicio1;
+package Ejercicio1.Ejercicio1_1;
 
 public class EmpleadoPorHoras extends Empleado {
     private int horasTrabajadas;

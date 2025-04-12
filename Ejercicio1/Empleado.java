@@ -1,4 +1,8 @@
-+public abstract class Empleado {
+// Clase abstracta Empleado (publica)
+package Ejercicio1;
+
+public abstract class Empleado {
+    // Atributos comunes para todas las clases de empleados
     protected String nombre;
     protected double salarioBase;
 
